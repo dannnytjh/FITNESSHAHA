@@ -1,2 +1,0 @@
-com.choicemmed.a30
-string app_name
